@@ -75,3 +75,10 @@ https://habr.com/ru/post/539308/
 
 https://vc.ru/marketing/88908-product-market-fit-chto-eto-takoe-i-pochemu-bez-nego-startap-ne-vzletit
 
+## Зачем?
+
+Лидирующие продукты переусложняются. А кодеров становится больше. Фокус на "Developer Centric Team".
+
+Хочу клонировать shortcut.com, как GitLab VS GitHub. С одной стороны нужен open source - будет проще пробиться. Опять же, важно для импортозамещения. А с другой стороны, можно повторить судьбу Redmine. Мне хочется коммерческий продукт в open source. Меня вдохновляет пример GitLab-а. https://about.gitlab.com/solutions/open-source/
+
+Идея в том, что люди долго и упорно трахались на коленке. А если применить актуальный набор технологических абстракций и "заимствований", то можно собрать продукт в одну харю.
