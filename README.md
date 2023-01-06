@@ -75,7 +75,9 @@ https://habr.com/ru/post/539308/
 
 ## Product-Market Fit
 
-https://vc.ru/marketing/88908-product-market-fit-chto-eto-takoe-i-pochemu-bez-nego-startap-ne-vzletit
+- https://vc.ru/marketing/88908-product-market-fit-chto-eto-takoe-i-pochemu-bez-nego-startap-ne-vzletit
+
+- https://habr.com/ru/post/320566/
 
 ## Зачем?
 
